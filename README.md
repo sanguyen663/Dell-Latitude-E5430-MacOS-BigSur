@@ -15,10 +15,12 @@ What's working :
 -  Trackpad
 -  HDMI
 -  Backlight
+
 What's not working :
 -  Sleep
 -  Fn key
 -  Camera
+
 What should I do after installed macOS?:
 -  Put EFI Folder to EFS Partition by using Clover Configuration
 -  Re-generate SMBIOS by going SMBIOS Section
