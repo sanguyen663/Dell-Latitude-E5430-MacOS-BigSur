@@ -22,5 +22,5 @@ What's not working :
 -  Camera
 
 What should I do after installed macOS?:
--  Put EFI Folder to EFS Partition by using Clover Configuration
+-  Put EFI Folder to EFI Partition by using Clover Configuration
 -  Re-generate SMBIOS by going SMBIOS Section
