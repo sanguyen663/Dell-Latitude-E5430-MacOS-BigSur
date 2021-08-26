@@ -1,4 +1,3 @@
-# DellE5430-MacOS-BigSur
 Dell Latitude E5430 Hackintosh Project
 
 My Specs : 
