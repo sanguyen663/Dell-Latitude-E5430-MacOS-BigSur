@@ -8,7 +8,7 @@ My Specs :
 -  Audio: IDT 92HD93BXX (ALC12)
 
 What's working : 
--  macOS (10.15.7 - 11.5.2 update OTA)
+-  macOS (10.15.7 - 11.6.5 update OTA)
 -  Audio
 -  Microphone and headphones
 -  USB (2.0 and 3.0)
