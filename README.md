@@ -1,5 +1,5 @@
 Dell Latitude E5430 Hackintosh Project
-
+Clover Bootloader 5146
 My Specs : 
 -  Intel Core i5 3230M
 -  Intel HD Graphics 4000
